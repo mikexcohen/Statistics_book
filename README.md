@@ -1,4 +1,4 @@
-# Modern Statistics: Intuition, Math, and Python
+# Modern Statistics: Intuition, Math, Python, R
 
 ## Hello friends!
 
