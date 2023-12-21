@@ -1,7 +1,7 @@
 #----
 # Modern statistics: Intuition, Math, Python, R
 ## Mike X Cohen (sincxpress.com)
-#### https://www.amazon.com/etc
+#### https://www.amazon.com/dp/B0CQRGWGLY
 #### Code for chapter 14 (ANOVA)
 
 # About this code file:
