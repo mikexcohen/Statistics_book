@@ -2,10 +2,13 @@
 
 ## Hello friends!
 
-I've been working on a statistics textbook for over a year, and it's close to being ready to publish. It will be available by the end of 2023.
+I've been working on a statistics textbook for over a year, and it's now published!
 
-The book contains 19 chapters, 690 pages, 390 figures, 45,000 lines of code, and 150 exercises.
+The book contains 19 chapters, 690 pages, 200k words, 390 figures, 45,000 lines of code, and 150 exercises.
 
 This repository contains all the code files (Python and R) to produce all the figures in the book, illustrate all the concepts, run the simulations, and show solutions to all exercises.
 
-Please enjoy the sample chapter on t-tests. I'll post the link to the full book when it's available :)
+Please enjoy the sample chapter on t-tests.
+
+The full book is currently available on amazon: https://www.amazon.com/dp/B0CQRGWGLY
+(Currently only in paperback form; a kindle version should be available soon!)
