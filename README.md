@@ -12,3 +12,6 @@ Please enjoy the sample chapter on t-tests.
 
 The full book is currently available on amazon: https://www.amazon.com/dp/B0CQRGWGLY
 (Currently only in paperback form; a kindle version should be available soon!)
+
+Video walk-throughs of instructions and Python solutions to the book exercises can be found on my YT channel:
+https://www.youtube.com/playlist?list=PLn0OLiymPak2UwYv3MC58nNgKVqaZybAX 
