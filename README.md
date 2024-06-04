@@ -20,7 +20,9 @@ Video walk-throughs of instructions and Python solutions to the book exercises c
 https://www.youtube.com/playlist?list=PLn0OLiymPak2UwYv3MC58nNgKVqaZybAX 
 
 ## Listen to the audio version (free!)
-I am in the process of reading the entire book out loud. As of this writing, I haven't finished recording the entire book, so please be patient :)  You can access the audio version via podcast apps
+I have read the entire book out loud. You can listen to it on the go, while reading along (e.g., if English isn't your native language), or to help you fall asleep at night.
+
+You can access the audio version via any of the commonly used podcast apps. You can also use these direct links:
 
 Podbean: https://sincxpress.podbean.com/
 
