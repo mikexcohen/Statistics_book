@@ -389,7 +389,7 @@ ns <- seq(10, 511, by = 25)
 rs_mat <- matrix(rep(rs, length(ns)), ncol = length(ns), byrow = FALSE)
 ns_mat <- matrix(rep(ns, length(rs)), nrow = length(rs), byrow = TRUE)
 num =  rs_mat * sqrt(ns_mat - 2)
-den = 1 - rs_mat^2
+den = sqrt(1 - rs_mat^2)
 tmat = num / den
 
 df_plot <- data.frame(x = c(ns_mat), y = c(rs_mat), z = c(tmat))
@@ -785,7 +785,7 @@ cat(sprintf("Correlation matrix shape: %d x %d\n", d[1], d[2]))
 # compute the t-values
 
 Tnum <- R * sqrt(N - 2)
-Tden <- 1 - R^2 + .Machine$double.eps # adding tiny number to avoid n/0
+Tden <- sqrt(1 - R^2) + .Machine$double.eps # adding tiny number to avoid n/0
 
 T <- Tnum / Tden
 
