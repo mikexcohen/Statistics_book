@@ -1,29 +1,57 @@
 # Modern Statistics: Intuition, Math, Python, R
 
-## Hello friends!
+A comprehensive guide to modern statistics with hands-on implementations in both Python and R.
 
-I've been working on a statistics textbook for over a year, and it's now published!
+## About the Book
 
-The book contains 19 chapters, 690 pages, 200k words, 390 figures, 45,000 lines of code, and 150 exercises.
+**690 pages** | **19 chapters** | **390 figures** | **150 exercises** | **45,000 lines of code**
 
-You can see the table of contents via the amazon book preview (link below) or the _TOC.pdf file uploaded here.
+This book teaches statistics from the ground up, combining mathematical rigor with practical coding implementations. Every concept is explained with clear intuition, formal mathematics, and working code in both Python and R.
 
-This repository contains all the code files (Python and R) to produce all the figures in the book, illustrate all the concepts, run the simulations, and show solutions to all exercises.
+**[Preview Table of Contents](https://github.com/mikexcohen/Statistics_book/blob/main/Cohen_ModernStatistics_TOC.pdf)** | **[Free sample chapter: T-tests](https://github.com/mikexcohen/Statistics_book/blob/main/Cohen_statsbook_ch11_ttest.pdf)**
 
-Please enjoy the sample chapter on t-tests.
+## Code Repository
 
-## Buy the book:
-The full book is available on amazon: https://www.amazon.com/dp/B0CQRGWGLY
+This repository contains all Python and R code from the book:
+- Complete implementations for all 390 figures
+- Simulations demonstrating statistical concepts
+- Solutions to all 150 exercises
+- Side-by-side Python and R examples
 
-## Watch YT videos of exercises and their solutions
-Video walk-throughs of instructions and Python solutions to the book exercises can be found on my YT channel:
-https://www.youtube.com/playlist?list=PLn0OLiymPak2UwYv3MC58nNgKVqaZybAX 
+## Purchase Options
 
-## Listen to the audio version (free!)
-I have read the entire book out loud. You can listen to it on the go, while reading along (e.g., if English isn't your native language), or to help you fall asleep at night.
+| Format | Link |
+|--------|------|
+| Paperback | [Amazon](https://www.amazon.com/dp/B0CQRGWGLY) |
+| Kindle | [Amazon](https://www.amazon.com/dp/B0CQRGWGLY) |
+| PDF | [Gumroad](TEMP_URL_HERE) |
 
-You can access the audio version via any of the commonly used podcast apps. You can also use these direct links:
+## Free Audio Version
 
-Podbean: https://sincxpress.podbean.com/
+Listen to the complete book read by the author—perfect for learning on the go, following along as you read, or even falling asleep to statistics.
 
-YouTube: https://www.youtube.com/playlist?list=PLn0OLiymPak1qHn8U9lV_EthGHiK9LPF9
+**Available on all major podcast platforms:**
+- [Podbean](https://sincxpress.podbean.com/)
+- [YouTube](https://www.youtube.com/playlist?list=PLn0OLiymPak1qHn8U9lV_EthGHiK9LPF9)
+
+## Exercise Solutions (Video)
+
+Watch detailed walkthroughs of exercise instructions and Python solutions on YouTube:
+
+**[Exercise Solutions Playlist](https://www.youtube.com/playlist?list=PLn0OLiymPak2UwYv3MC58nNgKVqaZybAX)**
+
+## What You'll Learn
+
+- Foundational statistical concepts and inference
+- Hypothesis testing, regression, and ANOVA
+- Bayesian and frequentist approaches
+- Practical implementation in Python and R
+- Real-world applications and simulations
+
+## About the Author
+
+Mike X Cohen, PhD - Former neuroscience professor, full-time educator, and Udemy bestselling instructor with 25 years of experience teaching statistics, mathematics, and data science.
+
+---
+
+*All code in this repository is free to use for learning. The book provides the context, theory, and exercises that bring the code to life.*
