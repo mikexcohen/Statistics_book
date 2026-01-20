@@ -10,6 +10,9 @@ This book teaches statistics from the ground up, combining mathematical rigor wi
 
 **[Preview Table of Contents](https://github.com/mikexcohen/Statistics_book/blob/main/Cohen_ModernStatistics_TOC.pdf)** | **[Free sample chapter: T-tests](https://github.com/mikexcohen/Statistics_book/blob/main/Cohen_statsbook_ch11_ttest.pdf)**
 
+## Discord server
+Join the Discord server for questions and support: https://discord.gg/t9UAkKyR95
+
 ## Code Repository
 
 This repository contains all Python and R code from the book:
