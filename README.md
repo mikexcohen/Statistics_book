@@ -26,7 +26,6 @@ This repository contains all Python and R code from the book:
 | Format | Link |
 |--------|------|
 | Paperback | [Amazon](https://www.amazon.com/dp/B0CQRGWGLY) |
-| Kindle | [Amazon](https://www.amazon.com/dp/B0CQRGWGLY) |
 | PDF version | [Gumroad](https://mikexcohen.gumroad.com/l/statistics) |
 
 ## Free Audio Version
